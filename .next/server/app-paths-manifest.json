@@ -1,0 +1,6 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/Home/page": "app/Home/page.js",
+  "/Maquina/CadastroMaquina/page": "app/Maquina/CadastroMaquina/page.js",
+  "/Maquina/VerMaquinas/page": "app/Maquina/VerMaquinas/page.js"
+}
